@@ -1,0 +1,12 @@
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.MLApp.dll
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\james\mechtron\solar car\test c#code\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SolarTestingIV.Form1.resources
